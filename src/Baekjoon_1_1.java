@@ -1,4 +1,4 @@
-public class Baekjoon_1-1
+public class Baekjoon_1_1
 {
 
   public static void main(String[] args) {

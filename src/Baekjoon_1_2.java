@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Baekjoon_1-2
+public class Baekjoon_1_2
 {
   public static void main(String[] args) {
     // 참조 : https://www.acmicpc.net/problem/1000

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Baekjoon_1-5
+public class Baekjoon_1_5
 {
 
   public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Baekjoon_1-5
     int B = 0;
     A = sc.nextInt();
     B = sc.nextInt();
-    System.out.println(A / B);
+    System.out.println(A/B);
     // return 0;
   }
 }
